@@ -23,7 +23,7 @@
 
 <h2>Flow/Logic of the code </h2>
 
-[AI_version DEPLOYED]([URL](https://celebrated-muffin-525af3.netlify.app/))
+[AI_version DEPLOYED](https://celebrated-muffin-525af3.netlify.app/)
 
 
                 ┌───────────────────────────┐
